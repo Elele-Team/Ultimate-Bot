@@ -1,5 +1,4 @@
 <h3 align="center">Ultimate Bot</h3>
-<div align="center">
 
 ---
 
