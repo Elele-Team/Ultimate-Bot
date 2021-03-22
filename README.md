@@ -19,7 +19,7 @@ This repository includes all information regarding the Discord bot, Ultimate Bot
 
 ## 🎈 Commands <a name="commands"></a>
 
-#### Animals
+### Animals
 
 | Command Name | Usage      | Description                      |
 |--------------|------------|----------------------------------|
@@ -44,7 +44,7 @@ This repository includes all information regarding the Discord bot, Ultimate Bot
 | Shibe        | !shibe     | Displays an image of a Shibe     |
 | Whale        | !whale     | Displays an image of a whale     |
 
-#### Anime
+### Anime
 
 | Command Name | Usage        | Description   |
 |--------------|--------------|---------------|
