@@ -124,6 +124,60 @@ This repository includes all information regarding the Discord bot, Ultimate Bot
 | Trivia               | !trivia                       | Asked a random question, can you get it right?        |
 | Would You Rather     | !wouldyourather               | Gives you a random Would You Rather!                  |
 
+### Jobs
+
+| Command Name | Usage        | Description                                              |
+|--------------|--------------|----------------------------------------------------------|
+| Jobs         | !remotivejob | Gives you job information, depending on what you specify |
+
+### Music
+
+| Command Name | Usage               | Description                                                   |
+|--------------|---------------------|---------------------------------------------------------------|
+| Spotify      | !spotify <username> | User must be playing Spotify in order to display information. |
+    
+### People
+
+| Command Name | Usage  | Description                   |
+|--------------|--------|-------------------------------|
+| Kanye        | !kanye | Displays a random Kanye quote |
+| Trump        | !trump | Displays a random Trump quote |
+
+### Social
+
+| Command Name | Usage                 | Description                            |
+|--------------|-----------------------|----------------------------------------|
+| Github       | !github <username>    | Displays Github Profile                |
+| Instagram    | !instagram <username> | Displays Instagram Profile             |
+| Reddit       | !reddit <subreddit>   | Displays a random image from subreddit |
+    
+### Transportation
+
+| Command Name         | Usage        | Description                                  |
+|----------------------|--------------|----------------------------------------------|
+| Manchester Accidents | !manaccident | Displays the latest Manchester road incident |
+
+### Weather
+
+| Command Name | Usage                     | Description                          |
+|--------------|---------------------------|--------------------------------------|
+| Weather      | !weather <C/F> <Location> | Displays the weather of the Location |
+
+### World
+
+| Command Name     | Usage                        | Description                                      |
+|------------------|------------------------------|--------------------------------------------------|
+| Amazing Earth    | !amazingearth                | Shows an image of the amazing Earth              |
+| Google Translate | !translate <language> <text> | Translates your text depending on your language. |
+| World Clock      | !worldclock                  | Displays all the clocks worldwide                |
+
+### Other    
+
+| Command Name | Usage                | Description                   |
+|--------------|----------------------|-------------------------------|
+| COVID-19     | !covid <all/country> | Displays COVID-19 Information |
+| Weed Strains | !weed <Strain>       | Displays Weed Information     |
+
 ## ✍️ Credits <a name = "authors"></a>
 
 - [@Jackelele](https://github.com/Jackelele) - Bot Developer
