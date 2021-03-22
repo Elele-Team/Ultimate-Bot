@@ -86,6 +86,16 @@ This repository includes all information regarding the Discord bot, Ultimate Bot
 | Ping         | !ping            | Returns the bot current ping & uptime          |
 | Server Info  | !serverinfo      | Returns information about the Discord Server   |
 | User Info    | !userinfo <user> | Returns information of your/their Discord Info |
+    
+### Food
+| Command Name       | Usage            | Description                                  |
+|--------------------|------------------|----------------------------------------------|
+| Cocktail           | !cocktail <name> | Displays the recipe on creating the cocktail |
+| Coffee             | !coffee          | Displays an image of coffee                  |
+| Food Porn          | !foodporn        | Displays a random image from /r/food         |
+| Fruit              | !fruit <name>    | Displays information about the named fruit   |
+| Meal Recipe        | !meal <name>     | Displays the recipe on creating the Meal     |
+| Random Meal Recipe | !randommeal      | Displays a random recipe on a meal           |
 
 ## ✍️ Credits <a name = "authors"></a>
 
