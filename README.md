@@ -19,7 +19,7 @@ This repository includes all information regarding the Discord bot, Ultimate Bot
 
 ## 🎈 Commands <a name="commands"></a>
 
-# Animals
+#### Animals
 
 | Command Name | Usage      | Description                      |
 |--------------|------------|----------------------------------|
@@ -43,6 +43,17 @@ This repository includes all information regarding the Discord bot, Ultimate Bot
 | Red Panda    | !redpanda  | Displays an image of a Red Panda |
 | Shibe        | !shibe     | Displays an image of a Shibe     |
 | Whale        | !whale     | Displays an image of a whale     |
+
+#### Anime
+
+| Command Name | Usage        | Description   |
+|--------------|--------------|---------------|
+| Hug          | !hug <user>  | Hugs a user   |
+| Kiss         | !kiss <user> | Kisses a user |
+| Pat          | !pat <user>  | Pats a user   |
+| Poke         | !poke <user> | Pokes a user  |
+| Slap         | !slap <user> | Slaps a user  |
+| Wink         | !wink <user> | Winks a user  |
 
 ## ✍️ Credits <a name = "authors"></a>
 
