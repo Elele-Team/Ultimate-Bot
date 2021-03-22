@@ -108,6 +108,22 @@ This repository includes all information regarding the Discord bot, Ultimate Bot
 | Smug         | !smug            | Displays a smug image               |
 | Tweet        | !tweet <message> | Displays the text in a tweet format |
 
+### Games
+
+| Command Name         | Usage                         | Description                                           |
+|----------------------|-------------------------------|-------------------------------------------------------|
+| 8ball                | !8ball <question>             | Responds with an answer to your question              |
+| Fortnite             | !fortnite <username> <device> | Displays your Fortnite stats (PC/XBOX/PS4)            |
+| MC Server Stats      | !mcserver <IP>                | Displays MC Server information; IP, MOTD and Players. |
+| Minecraft Player     | !minecraft <username>         | Displays your UUID and Avatar                         |
+| Google Playstore     | !playstore <game>             | Displays Google Playstore Information                 |
+| Pokemon              | !pokemon <pokemon>            | Displays Pokemon Information                          |
+| Random Number        | !randomnumber/!roll           | Displays a random number                              |
+| Rock, Paper Scissors | !rps <rock/paper/scissors>    | Play RPS with the bot!                                |
+| Tic Tac Toe          | !tictactoe <player>           | Play Tic Tac Toe with another player!                 |
+| Trivia               | !trivia                       | Asked a random question, can you get it right?        |
+| Would You Rather     | !wouldyourather               | Gives you a random Would You Rather!                  |
+
 ## ✍️ Credits <a name = "authors"></a>
 
 - [@Jackelele](https://github.com/Jackelele) - Bot Developer
