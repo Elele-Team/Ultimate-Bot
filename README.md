@@ -71,8 +71,24 @@ This repository includes all information regarding the Discord bot, Ultimate Bot
 | Cryptocurrency News  | !cryptonews             | Displays the latest Cryptocurrency news     |
 | Cryptocurrency Price | !price <crypto> usd/gbp | Displays how much a Cryptocurrency is worth |
 
+### Dictionaries
+
+| Command Name     | Usage          | Description                                                  |
+|------------------|----------------|--------------------------------------------------------------|
+| Urban Dictionary | !urban <phase> | Returns the definition of the phase through Urban Dictionary |
+    
+### Discord
+
+| Command Name | Usage            | Description                                    |
+|--------------|------------------|------------------------------------------------|
+| Avatar       | !avatar <user>   | Returns an image of your/their Discord avatar  |
+| Bot Invite   | !botinvite       | Returns the link to invite the Discord Bot     |
+| Ping         | !ping            | Returns the bot current ping & uptime          |
+| Server Info  | !serverinfo      | Returns information about the Discord Server   |
+| User Info    | !userinfo <user> | Returns information of your/their Discord Info |
+
 ## ✍️ Credits <a name = "authors"></a>
 
 - [@Jackelele](https://github.com/Jackelele) - Bot Developer
-- [@hunterelele](https://github.com/hunterelele) - Bot Developer
+- [@hunterelele](https://github.com/kikocodes) - Bot Developer
 
