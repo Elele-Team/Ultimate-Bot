@@ -54,6 +54,15 @@ This repository includes all information regarding the Discord bot, Ultimate Bot
 | Poke         | !poke <user> | Pokes a user  |
 | Slap         | !slap <user> | Slaps a user  |
 | Wink         | !wink <user> | Winks a user  |
+    
+### Astronomy
+
+| Command Name      | Usage               | Description                                                               |
+|-------------------|---------------------|---------------------------------------------------------------------------|
+| Astronomy Picture | !apod               | Displays an Astronomy Picture of the Day                                  |
+| Astronaut         | !astro / !astronaut | Displays how many Astronauts are currently on International Space Station |
+| Earth             | !earth              | Pings the NASA database for a Live earth image                            |
+| ISS               | !iss                | Displays the location of the International Space Station                  |
 
 ## ✍️ Credits <a name = "authors"></a>
 
