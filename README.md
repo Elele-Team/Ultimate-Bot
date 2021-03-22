@@ -64,6 +64,13 @@ This repository includes all information regarding the Discord bot, Ultimate Bot
 | Earth             | !earth              | Pings the NASA database for a Live earth image                            |
 | ISS               | !iss                | Displays the location of the International Space Station                  |
 
+### Currency
+
+| Command Name         | Usage                   | Description                                 |
+|----------------------|-------------------------|---------------------------------------------|
+| Cryptocurrency News  | !cryptonews             | Displays the latest Cryptocurrency news     |
+| Cryptocurrency Price | !price <crypto> usd/gbp | Displays how much a Cryptocurrency is worth |
+
 ## ✍️ Credits <a name = "authors"></a>
 
 - [@Jackelele](https://github.com/Jackelele) - Bot Developer
