@@ -88,6 +88,7 @@ This repository includes all information regarding the Discord bot, Ultimate Bot
 | User Info    | !userinfo <user> | Returns information of your/their Discord Info |
     
 ### Food
+
 | Command Name       | Usage            | Description                                  |
 |--------------------|------------------|----------------------------------------------|
 | Cocktail           | !cocktail <name> | Displays the recipe on creating the cocktail |
@@ -96,6 +97,16 @@ This repository includes all information regarding the Discord bot, Ultimate Bot
 | Fruit              | !fruit <name>    | Displays information about the named fruit   |
 | Meal Recipe        | !meal <name>     | Displays the recipe on creating the Meal     |
 | Random Meal Recipe | !randommeal      | Displays a random recipe on a meal           |
+
+### Fun
+
+| Command Name | Usage            | Description                         |
+|--------------|------------------|-------------------------------------|
+| Ascii Text   | !ascii <text>    | Displays the text in ASCII format   |
+| Imgfy        | !imgfy <text>    | Displays the text as an imgfy       |
+| Owo          | !owo             | Owo                                 |
+| Smug         | !smug            | Displays a smug image               |
+| Tweet        | !tweet <message> | Displays the text in a tweet format |
 
 ## ✍️ Credits <a name = "authors"></a>
 
