@@ -15,7 +15,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This repository includes all information regarding the Discord bot, Ultimate Bot. This bot was created by Elele.Team to use an extensive amount of APIs to make it enjoyable by everyone. You can invite the bot [here](https://discord.com)
+This repository includes all information regarding the Discord bot, Ultimate Bot. This bot was created by Elele.Team to use an extensive amount of APIs to make it enjoyable by everyone. You can invite the bot [here](https://top.gg/bot/758815034666778656)
 
 ## 🎈 Commands <a name="commands"></a>
 
